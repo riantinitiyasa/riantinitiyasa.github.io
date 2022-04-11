@@ -43,9 +43,22 @@ body {
     background-color: #99869e
 }
 
+#content-quotes {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 1.0%;
+    background-color: #dd9cc1
+}
+
 #footer {
     height: 100%;
     width: 100%;
-    padding-bottom: 0.5%;
-    background-color: #a1a8b6
+    padding-bottom: 1.0%;
+    background-color: #9775a1 
 }
+#content-movie {
+    height: 100%;
+    width: 100%;
+    padding-bottom: 1.0%;
+    background-color: #99869e;
+
